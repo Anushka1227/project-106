@@ -1,0 +1,29 @@
+body {
+    font-family: 'Spline Sans', sans-serif;
+    background-color: bisque;
+}
+
+header_div {
+    background-color:lightblue;
+    color: brown; 
+}
+p{
+font-family: 'Times New Roman', Times, serif;
+font-weight: 500;
+word-spacing: 1cm;
+font-size: medium;
+}
+
+button1{
+    font-family: monospace;
+    margin-top: 10px;
+    width: 25;
+    font-size: medium;
+}
+copy_right_footer{
+    background-color: cadetblue;
+    color: darkslategrey;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
